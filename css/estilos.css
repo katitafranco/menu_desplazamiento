@@ -21,7 +21,7 @@ nav ul li {
   margin: 0 20px;
   display: inline;
   text-align: center;
-  pad: 5px 10px;
+  padding: 5px 10px;
 }
 
 nav ul li a {
@@ -38,5 +38,5 @@ nav ul li a:hover {
 
 h2 {
   margin: 0;
-  padding-top: 40px;
+  padding-top: 50px;
 }
