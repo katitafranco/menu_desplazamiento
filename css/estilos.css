@@ -40,3 +40,9 @@ h2 {
   margin: 0;
   padding-top: 50px;
 }
+
+/* Agrega una animaci[on de desplazamiento suave */
+
+html {
+  scroll-behavior: smooth;
+}
